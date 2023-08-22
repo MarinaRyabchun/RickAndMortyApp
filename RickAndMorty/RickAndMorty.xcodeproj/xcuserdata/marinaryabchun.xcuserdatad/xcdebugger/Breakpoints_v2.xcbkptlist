@@ -14,8 +14,8 @@
             filePath = "RickAndMorty/Modules/Characters/CharactersViewController.swift"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "29"
-            endingLineNumber = "29"
+            startingLineNumber = "30"
+            endingLineNumber = "30"
             landmarkName = "viewDidLoad()"
             landmarkType = "7">
             <Locations>
@@ -62,8 +62,8 @@
             filePath = "RickAndMorty/Modules/Characters/CharactersViewController.swift"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "27"
-            endingLineNumber = "27"
+            startingLineNumber = "28"
+            endingLineNumber = "28"
             landmarkName = "viewDidLoad()"
             landmarkType = "7">
             <Locations>
@@ -128,6 +128,190 @@
             startingLineNumber = "32"
             endingLineNumber = "32"
             landmarkName = "fetchData()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "F8890C3A-0718-4C2A-906C-2A9F6B9E5A24"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "RickAndMorty/Modules/Detail/DetailViewModel.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "14"
+            endingLineNumber = "14"
+            landmarkName = "DetailViewModel"
+            landmarkType = "3">
+            <Locations>
+               <Location
+                  uuid = "F8890C3A-0718-4C2A-906C-2A9F6B9E5A24 - 4b53fe3ae5006e76"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "property wrapper backing initializer of RickAndMorty.DetailViewModel.episodes : Swift.Array&lt;RickAndMorty.ResultEpisode&gt;"
+                  moduleName = "RickAndMorty"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/marinaryabchun/Desktop/GitHub/RickAndMorty/RickAndMortyApp/RickAndMorty/RickAndMorty/Modules/Detail/DetailViewModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "14"
+                  endingLineNumber = "14"
+                  offsetFromSymbolStart = "32">
+               </Location>
+               <Location
+                  uuid = "F8890C3A-0718-4C2A-906C-2A9F6B9E5A24 - 25fd106c505b6c1d"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "RickAndMorty.DetailViewModel.episodes.getter : Swift.Array&lt;RickAndMorty.ResultEpisode&gt;"
+                  moduleName = "RickAndMorty"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/marinaryabchun/Desktop/GitHub/RickAndMorty/RickAndMortyApp/RickAndMorty/RickAndMorty/Modules/Detail/DetailViewModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "14"
+                  endingLineNumber = "14"
+                  offsetFromSymbolStart = "112">
+               </Location>
+               <Location
+                  uuid = "F8890C3A-0718-4C2A-906C-2A9F6B9E5A24 - cd9a3328a2d1861"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "RickAndMorty.DetailViewModel.episodes.setter : Swift.Array&lt;RickAndMorty.ResultEpisode&gt;"
+                  moduleName = "RickAndMorty"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/marinaryabchun/Desktop/GitHub/RickAndMorty/RickAndMortyApp/RickAndMorty/RickAndMorty/Modules/Detail/DetailViewModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "14"
+                  endingLineNumber = "14"
+                  offsetFromSymbolStart = "140">
+               </Location>
+               <Location
+                  uuid = "F8890C3A-0718-4C2A-906C-2A9F6B9E5A24 - 4464181773cbeb10"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "RickAndMorty.DetailViewModel.episodes.modify : Swift.Array&lt;RickAndMorty.ResultEpisode&gt;"
+                  moduleName = "RickAndMorty"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/marinaryabchun/Desktop/GitHub/RickAndMorty/RickAndMortyApp/RickAndMorty/RickAndMorty/Modules/Detail/DetailViewModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "14"
+                  endingLineNumber = "14"
+                  offsetFromSymbolStart = "0">
+               </Location>
+               <Location
+                  uuid = "F8890C3A-0718-4C2A-906C-2A9F6B9E5A24 - fe0c756ab0f8f7d7"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "RickAndMorty.DetailViewModel.episodes.modify : Swift.Array&lt;RickAndMorty.ResultEpisode&gt; with unmangled suffix &quot;.resume.0&quot;"
+                  moduleName = "RickAndMorty"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/marinaryabchun/Desktop/GitHub/RickAndMorty/RickAndMortyApp/RickAndMorty/RickAndMorty/Modules/Detail/DetailViewModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "14"
+                  endingLineNumber = "14"
+                  offsetFromSymbolStart = "20">
+               </Location>
+               <Location
+                  uuid = "F8890C3A-0718-4C2A-906C-2A9F6B9E5A24 - 7b397b392b92e583"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "RickAndMorty.DetailViewModel.$episodes.getter : Combine.Published&lt;Swift.Array&lt;RickAndMorty.ResultEpisode&gt;&gt;.Publisher"
+                  moduleName = "RickAndMorty"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/marinaryabchun/Desktop/GitHub/RickAndMorty/RickAndMortyApp/RickAndMorty/RickAndMorty/Modules/Detail/DetailViewModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "14"
+                  endingLineNumber = "14"
+                  offsetFromSymbolStart = "96">
+               </Location>
+               <Location
+                  uuid = "F8890C3A-0718-4C2A-906C-2A9F6B9E5A24 - 7b397b392b92e583"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "RickAndMorty.DetailViewModel.$episodes.setter : Combine.Published&lt;Swift.Array&lt;RickAndMorty.ResultEpisode&gt;&gt;.Publisher"
+                  moduleName = "RickAndMorty"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/marinaryabchun/Desktop/GitHub/RickAndMorty/RickAndMortyApp/RickAndMorty/RickAndMorty/Modules/Detail/DetailViewModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "14"
+                  endingLineNumber = "14"
+                  offsetFromSymbolStart = "196">
+               </Location>
+               <Location
+                  uuid = "F8890C3A-0718-4C2A-906C-2A9F6B9E5A24 - 96c70cb03b4ffc30"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "RickAndMorty.DetailViewModel.$episodes.modify : Combine.Published&lt;Swift.Array&lt;RickAndMorty.ResultEpisode&gt;&gt;.Publisher"
+                  moduleName = "RickAndMorty"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/marinaryabchun/Desktop/GitHub/RickAndMorty/RickAndMortyApp/RickAndMorty/%3Ccompiler-generated%3E"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "56">
+               </Location>
+               <Location
+                  uuid = "F8890C3A-0718-4C2A-906C-2A9F6B9E5A24 - 7b47e00214f16b42"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "RickAndMorty.DetailViewModel.$episodes.modify : Combine.Published&lt;Swift.Array&lt;RickAndMorty.ResultEpisode&gt;&gt;.Publisher with unmangled suffix &quot;.resume.0&quot;"
+                  moduleName = "RickAndMorty"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/marinaryabchun/Desktop/GitHub/RickAndMorty/RickAndMortyApp/RickAndMorty/RickAndMorty/Modules/Detail/DetailViewModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "14"
+                  endingLineNumber = "14"
+                  offsetFromSymbolStart = "24">
+               </Location>
+               <Location
+                  uuid = "F8890C3A-0718-4C2A-906C-2A9F6B9E5A24 - aa1c1b64be07e42"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "RickAndMorty.DetailViewModel.init(model: RickAndMorty.CellViewModel, service: RickAndMorty.APIServiceProtocol) -&gt; RickAndMorty.DetailViewModel"
+                  moduleName = "RickAndMorty"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/marinaryabchun/Desktop/GitHub/RickAndMorty/RickAndMortyApp/RickAndMorty/RickAndMorty/Modules/Detail/DetailViewModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "14"
+                  endingLineNumber = "14"
+                  offsetFromSymbolStart = "248">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "2F4121B3-24B5-4F33-A567-2DEB41BD1BD9"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "RickAndMorty/Modules/Detail/DetailViewModel.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "56"
+            endingLineNumber = "56"
+            landmarkName = "fetchEpisode()"
             landmarkType = "7">
          </BreakpointContent>
       </BreakpointProxy>

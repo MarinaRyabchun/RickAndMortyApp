@@ -22,6 +22,7 @@ final class CharactersViewController: UIViewController {
         setupNavigationBar()
         charactersView.didLoad()
         charactersView.collectionView.dataSource = self
+        charactersView.collectionView.delegate = self
         viewModel.fetchData()
         
         viewModel.updateLoadingState = { [weak self] in
@@ -38,9 +39,9 @@ final class CharactersViewController: UIViewController {
     }
     //    MARK: - View Methods
     private func setupNavigationBar() {
-        navigationController?.navigationBar.titleTextAttributes = [NSAttributedString.Key.font: Constants.Fonts.title2 ?? UIFont.systemFont(ofSize: 28)]
+        navigationController?.navigationBar.titleTextAttributes = [ NSAttributedString.Key.font: Constants.Fonts.title2 ]
         navigationController?.navigationBar.prefersLargeTitles = true
-        title = "Characters"
+        title = Constants.Text.characters
     }
 }
 
@@ -56,6 +57,18 @@ extension CharactersViewController: UICollectionViewDataSource {
             cell.configure1(model: content[indexPath.row])
         }
         return cell
+    }
+}
+
+extension CharactersViewController: UICollectionViewDelegate {
+    func collectionView(_ collectionView: UICollectionView, didSelectItemAt indexPath: IndexPath) {
+        if let model = viewModel.users.value {
+            let selectedCharacter = model[indexPath.row]
+            let detailView = DetailView(viewModel: DetailViewModel(model: selectedCharacter))
+            let hostingController = UIHostingController(rootView: detailView)
+            hostingController.modalPresentationStyle = .fullScreen
+            present(hostingController, animated: false)     
+        }
     }
 }
 
